@@ -39,8 +39,8 @@ Welcome to my GitHub! I'm passionate about building intelligent systems using Ma
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin-1408&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-1408&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jatinkalra1710&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinkalra1710&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm passionate about building intelligent systems using Ma
 ---
 
 ## 📬 **Let's Connect**
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jatin-kalra-7608181ba/)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jatinkalra1710)  
 📧 Email: **jatinkalra1710@gmail.com**
 
 ---
